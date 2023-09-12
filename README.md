@@ -4,19 +4,19 @@ In this project, I imported the dataset and undertook the tasks of data importin
 
 INSIGHTS:
 
- Orders are highest on Thursdays (15.17%), Fridays (16.57%), and Saturdays (14.79%)
+- Orders are highest on Thursdays (15.17%), Fridays (16.57%), and Saturdays (14.79%)
 
- The maximum number of orders occurs in the months of January (8.64%), May (8.68%), and July (9.06%)
+- The maximum number of orders occurs in the months of January (8.64%), May (8.68%), and July (9.06%)
 
- Classic category contributes the most to quantities (30.03%) and sales (26.91%)
+- Classic category contributes the most to quantities (30.03%) and sales (26.91%)
 
- Large-sized pizza contributes to maximum sales (45.89%)
+- Large-sized pizza contributes to maximum sales (45.89%)
 
- The Classic Deluxe pizza is the most popular choice, accounting for the highest number of orders (4.92%) and quantities sold (4.95%)
+- The Classic Deluxe pizza is the most popular choice, accounting for the highest number of orders (4.92%) and quantities sold (4.95%)
 
- The Thai Chicken pizza generates the highest revenue (5.31%)
+- The Thai Chicken pizza generates the highest revenue (5.31%)
 
- The Brie Carre pizza is among the least ordered items (1.01%) with lower quantities sold (0.99%) and resulting in relatively lower revenue (1.42%)
+- The Brie Carre pizza is among the least ordered items (1.01%) with lower quantities sold (0.99%) and resulting in relatively lower revenue (1.42%)
 
 CONCLUSION:
 
