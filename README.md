@@ -8,7 +8,7 @@ In this project, I imported the dataset and undertook the tasks of data importin
 
 🔸 **Data Cleaning**: Cleaned the dataset using Power Query tool, ensuring data quality by handling missing values, removing duplicates, and addressing any other data inconsistencies.
 
-🔸 **Data Transformation**: Used DAX Functions to get Custom columns into the report. I also did tasks like aggregating data, creating calculated columns, or performing other data manipulations to make it suitable for analysis.
+🔸 **Data Transformation**: Used DAX Functions to get custom columns into the report. I also undertook tasks like aggregating data, creating calculated columns, or performing other data manipulations to make it suitable for analysis.
 
 🔸 **Data Visualization**: Built a dashboard in Microsoft Power BI, which serves as a visual representation of my analysis. Dashboards are excellent for presenting insights in a user-friendly manner.
 
