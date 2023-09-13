@@ -2,9 +2,9 @@ PIZZA SALES DATA ANALYSIS USING MICROSOFT POWER BI
 
 In this project, I imported the dataset and undertook the tasks of data importing, data cleaning, data transformation, and dashboard building in Microsoft Power BI. I evaluated the busiest times, sales performance, best sellers, and worst sellers to maximize revenue and customer satisfaction in the pizza business.
 
-pproach:
+APPROACH FOLLOWED:
 
-✔ KPIs to know whether the company is achieving its objective or not.
+- KPIs to know whether the company is achieving its objective or not.
 ✔ The cumulative total of sales to understand the growth of the business.
 ✔ The inventory management of different stores.
 ✔ Finding out the special days and seasons during which sales are high.
