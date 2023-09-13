@@ -2,7 +2,7 @@ PIZZA SALES REPORT (MICROSOFT POWER BI PROJECT)
 
 In this project, I imported the dataset and undertook the tasks of data importing, data cleaning, data transformation, and dashboard building in Microsoft Power BI. I evaluated the busiest times, sales performance, best sellers, and worst sellers to maximize revenue and customer satisfaction in the pizza business.
 
-⚙ Approach Followed:
+⚙️ Approach Followed:
 
 🔸 Import Data in Microsoft Power BI   
 
