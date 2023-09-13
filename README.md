@@ -6,24 +6,17 @@ In this project, I imported the dataset and undertook the tasks of data importin
 
 - Import Data in Microsoft Power BI   
 
-
 - Data Cleaning using Power Query
-
 
 - KPI's Building
 
-
 - Data Processing
-
 
 - Building Daily and Monthly Trend Charts
 
-
 - Building % of Sales by Category and Size
 
-
 - Adding Insights
-
 
 - Add Navigator Buttons
 
