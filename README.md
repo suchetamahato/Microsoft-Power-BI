@@ -38,4 +38,4 @@ In this project, I imported the dataset and undertook the tasks of data importin
 
 📊 Conclusion:
 
-Busiest days are Thursdays, Fridays, and Saturdays, with a weekend preference. Top-order months: January, May, and July, likely due to seasons. Classic category is popular, especially Classic Deluxe. Large pizzas drive half of revenue. Insights for better pizza offerings and marketing.
+Thursdays, Fridays, and Saturdays are the busiest days, likely due to the weekend preference. January, May, and July have the most orders, possibly due to seasonal factors. Classic pizzas are the most popular, driving sales. Large-sized pizzas make up almost half of revenue. The customer favourite is Classic Deluxe, with the highest orders and sales. These insights are valuable for optimizing pizza offerings and marketing strategies.
