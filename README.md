@@ -30,9 +30,9 @@ In this project, I imported the dataset and undertook the tasks of data importin
 
 📊 Conclusion:
 
-1. **Busiest Days**: You determined that Thursdays, Fridays, and Saturdays are the busiest days for pizza orders, likely due to the weekend preference. This insight can be used to optimize staffing and resources during peak days.
+1. **Busiest Days**: Thursdays, Fridays, and Saturdays are the busiest days for pizza orders, likely due to the weekend preference. This insight can be used to optimize staffing and resources during peak days.
 
-2. **Seasonal Trends**: You identified that January, May, and July have the most orders, potentially due to seasonal factors. Understanding these trends can inform inventory management and marketing campaigns.
+2. **Seasonal Trends**: January, May, and July have the most orders, potentially due to seasonal factors. Understanding these trends can inform inventory management and marketing campaigns.
 
 3. **Popular Pizza Type**: Classic pizzas are the most popular and are driving sales. Knowing which pizza types perform the best can help refine the menu and promotions.
 
