@@ -1,4 +1,4 @@
-PIZZA SALES REPORT (MICROSOFT POWER BI PROJECT) 
+# PIZZA SALES REPORT (MICROSOFT POWER BI PROJECT) 
 
 In this project, I used Microsoft Power BI to import, clean, transform data, and create a dashboard.
 
