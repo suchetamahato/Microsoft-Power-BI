@@ -2,7 +2,7 @@
 
 In this project, I used Microsoft Power BI to import, clean, transform data, and create a dashboard.
 
-⚙️ Steps Followed:
+# ⚙️ Steps Followed:
 
 🔸 **Data Importing**: Imported a dataset into Microsoft Power BI, which is the initial step in any data analysis project. 
 
