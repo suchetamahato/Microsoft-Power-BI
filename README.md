@@ -5,7 +5,7 @@ In this project, I used Microsoft Power BI to import, clean, transform data, and
 # Steps Followed:
 
 🔸 **Data Importing**: 
-- Imported a dataset into Microsoft Power BI, which is the initial step in any data analysis project. 
+-Imported a dataset into Microsoft Power BI, which is the initial step in any data analysis project. 
 
 🔸 **Data Cleaning**: Cleaned the dataset using Power Query tool, ensuring data quality by handling missing values, removing duplicates, and addressing any other data inconsistencies.
 
