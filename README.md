@@ -1,8 +1,8 @@
-# Pizza Sales Report (Microsoft Power BI Project) 
+# PIZZA SALES REPORT (MICROSOFT POWER BI PROJECT) 
 
 In this project, I used Microsoft Power BI to import, clean, transform data, and create a dashboard.
 
-# ⚙️ Steps Followed:
+# Steps Followed:
 
 🔸 **Data Importing**: Imported a dataset into Microsoft Power BI, which is the initial step in any data analysis project. 
 
@@ -12,7 +12,7 @@ In this project, I used Microsoft Power BI to import, clean, transform data, and
 
 🔸 **Data Visualization**: Built a dashboard in Microsoft Power BI, which serves as a visual representation of my analysis. Dashboards are excellent for presenting insights in a user-friendly manner.
 
-🔎 Insights:
+# Insights:
 
 🔹 Orders are highest on Thursdays (15.17%), Fridays (16.57%), and Saturdays (14.79%)
 
@@ -28,16 +28,16 @@ In this project, I used Microsoft Power BI to import, clean, transform data, and
 
 🔹 The Brie Carre pizza is among the least ordered items (1.01%) with lower quantities sold (0.99%) and resulting in relatively lower revenue (1.42%)
 
-📊 Conclusion:
+# Conclusion:
 
-1. **Busiest Days**: Thursdays, Fridays, and Saturdays are the busiest days for pizza orders, likely due to the weekend preference. This insight can be used to optimize staffing and resources during peak days.
+🔎 **Busiest Days**: Thursdays, Fridays, and Saturdays are the busiest days for pizza orders, likely due to the weekend preference. This insight can be used to optimize staffing and resources during peak days.
 
-2. **Seasonal Trends**: January, May, and July have the most orders, potentially due to seasonal factors. Understanding these trends can inform inventory management and marketing campaigns.
+🔎 **Seasonal Trends**: January, May, and July have the most orders, potentially due to seasonal factors. Understanding these trends can inform inventory management and marketing campaigns.
 
-3. **Popular Pizza Type**: Classic pizzas are the most popular and are driving sales. Knowing which pizza types perform the best can help refine the menu and promotions.
+🔎 **Popular Pizza Type**: Classic pizzas are the most popular and are driving sales. Knowing which pizza types perform the best can help refine the menu and promotions.
 
-4. **Revenue Contribution**: Large-sized pizzas contribute significantly to revenue, making up almost half of it. This information can guide pricing strategies and promotions for different pizza sizes.
+🔎 **Revenue Contribution**: Large-sized pizzas contribute significantly to revenue, making up almost half of it. This information can guide pricing strategies and promotions for different pizza sizes.
 
-5. **Customer Favorite**: Classic Deluxe is the customer favorite with the highest number of orders and sales. Recognizing customer preferences allows for targeted marketing and promotions.
+🔎 **Customer Favorite**: Classic Deluxe is the customer favorite with the highest number of orders and sales. Recognizing customer preferences allows for targeted marketing and promotions.
 
 These insights can help the business make data-driven decisions and tailor its operations to meet customer preferences and demand patterns.
