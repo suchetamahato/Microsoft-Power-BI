@@ -2,7 +2,7 @@
 
 In this project, I used Microsoft Power BI to import, clean, transform data, and create a dashboard.
 
-# Steps Followed:
+# Steps Followed
 
 🔸 **Data Importing**: Imported a dataset into Microsoft Power BI, which is the initial step in any data analysis project. 
 
@@ -12,7 +12,7 @@ In this project, I used Microsoft Power BI to import, clean, transform data, and
 
 🔸 **Data Visualization**: Built a dashboard in Microsoft Power BI, which serves as a visual representation of my analysis. Dashboards are excellent for presenting insights in a user-friendly manner.
 
-# Insights:
+# Insights
 
 🔹 Orders are highest on Thursdays (15.17%), Fridays (16.57%), and Saturdays (14.79%)
 
@@ -28,7 +28,7 @@ In this project, I used Microsoft Power BI to import, clean, transform data, and
 
 🔹 The Brie Carre pizza is among the least ordered items (1.01%) with lower quantities sold (0.99%) and resulting in relatively lower revenue (1.42%)
 
-# Conclusion:
+# Conclusion
 
 🔎 **Busiest Days**: Thursdays, Fridays, and Saturdays are the busiest days for pizza orders, likely due to the weekend preference. This insight can be used to optimize staffing and resources during peak days.
 
