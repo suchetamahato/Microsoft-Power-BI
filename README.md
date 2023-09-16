@@ -4,13 +4,21 @@ In this project, I used Microsoft Power BI to import, clean, transform data, and
 
 # Steps Followed
 
-🔸 **Data Importing**: Imported a dataset into Microsoft Power BI, which is the initial step in any data analysis project. 
+🔸 **Data Importing**
 
-🔸 **Data Cleaning**: Cleaned the dataset using Power Query tool, ensuring data quality by handling missing values, removing duplicates, and addressing any other data inconsistencies.
+Imported a dataset into Microsoft Power BI, which is the initial step in any data analysis project. 
 
-🔸 **Data Transformation**: Used DAX Functions to get custom columns into the report. I also undertook tasks like aggregating data, creating calculated columns, or performing other data manipulations to make it suitable for analysis.
+🔸 **Data Cleaning**
 
-🔸 **Data Visualization**: Built a dashboard in Microsoft Power BI, which serves as a visual representation of my analysis. Dashboards are excellent for presenting insights in a user-friendly manner.
+Cleaned the dataset using Power Query tool, ensuring data quality by handling missing values, removing duplicates, and addressing any other data inconsistencies.
+
+🔸 **Data Transformation**
+
+Used DAX Functions to get custom columns into the report. I also undertook tasks like aggregating data, creating calculated columns, or performing other data manipulations to make it suitable for analysis.
+
+🔸 **Data Visualization**
+
+Built a dashboard in Microsoft Power BI, which serves as a visual representation of my analysis. Dashboards are excellent for presenting insights in a user-friendly manner.
 
 # Insights
 
@@ -30,14 +38,24 @@ In this project, I used Microsoft Power BI to import, clean, transform data, and
 
 # Conclusion
 
-🔎 **Busiest Days**: Thursdays, Fridays, and Saturdays are the busiest days for pizza orders, likely due to the weekend preference. This insight can be used to optimize staffing and resources during peak days.
+🔎 **Busiest Days**
 
-🔎 **Seasonal Trends**: January, May, and July have the most orders, potentially due to seasonal factors. Understanding these trends can inform inventory management and marketing campaigns.
+Thursdays, Fridays, and Saturdays are the busiest days for pizza orders, likely due to the weekend preference. This insight can be used to optimize staffing and resources during peak days.
 
-🔎 **Popular Pizza Type**: Classic pizzas are the most popular and are driving sales. Knowing which pizza types perform the best can help refine the menu and promotions.
+🔎 **Seasonal Trends**
 
-🔎 **Revenue Contribution**: Large-sized pizzas contribute significantly to revenue, making up almost half of it. This information can guide pricing strategies and promotions for different pizza sizes.
+January, May, and July have the most orders, potentially due to seasonal factors. Understanding these trends can inform inventory management and marketing campaigns.
 
-🔎 **Customer Favorite**: Classic Deluxe is the customer favorite with the highest number of orders and sales. Recognizing customer preferences allows for targeted marketing and promotions.
+🔎 **Popular Pizza Type**
+
+Classic pizzas are the most popular and are driving sales. Knowing which pizza types perform the best can help refine the menu and promotions.
+
+🔎 **Revenue Contribution**
+
+Large-sized pizzas contribute significantly to revenue, making up almost half of it. This information can guide pricing strategies and promotions for different pizza sizes.
+
+🔎 **Customer Favorite**
+
+Classic Deluxe is the customer favorite with the highest number of orders and sales. Recognizing customer preferences allows for targeted marketing and promotions.
 
 These insights can help the business make data-driven decisions and tailor its operations to meet customer preferences and demand patterns.
